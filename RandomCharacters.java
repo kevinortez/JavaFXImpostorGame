@@ -1,4 +1,4 @@
-package cs2012final;
+package main;
 
 /*Class that populates the main pane in the Main class with rectangles, circles, an ellipse,
  * and arcs in random spaces on the grid

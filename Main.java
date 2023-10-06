@@ -1,4 +1,4 @@
-package cs2012final;
+package main;
 
 
 /* Kevin Ortez (307310554) CS 2012-01 (31315) cs2012 Final Project: JavaFX game
